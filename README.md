@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-cuI5O5XzOlyjFIQgh7j1fQzwbFkvoOY/view](https://drive.google.com/file/d/1-cuI5O5XzOlyjFIQgh7j1fQzwbFkvoOY/view)
 
-- ⚡ Fun fact **I did not know how to add a readme at first**
+- ⚡ Fun fact **I did not know how to get a readme at first**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
