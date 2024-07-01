@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development & Other Programming languages**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mahadi-zulfiker.web.app](https://portfolio-mahadi-zulfiker.web.app)
+- 👨‍💻 My Portfolio is available at [https://portfolio-mahadi-zulfiker.web.app](https://portfolio-mahadi-zulfiker.web.app)
 
 - 📫 How to reach me **mahade.adib45@gmail.com**
 
