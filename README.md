@@ -1,3 +1,7 @@
+<img src="https://i.ibb.co/f1RxB7S/Screenshot-2024-07-01-201653.png" />
+
+<br />
+
 <h1 align="center">Hi 👋, I'm Mahadi Zulfiker</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
