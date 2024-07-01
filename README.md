@@ -16,6 +16,7 @@
 <a href="https://dev.to/https://dev.to/mahadizulfiker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mahadizulfiker" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahadi-zulfiker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahadi-zulfiker" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22822200/mahade-adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22822200/mahade-adib" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mahade.adib.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahade.adib.5" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/mahadi_adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mahadi_adib" height="30" width="40" /></a>
 </p>
 
@@ -27,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadi-zulfiker&show_icons=true&locale=en" alt="mahadi-zulfiker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadi-zulfiker&" alt="mahadi-zulfiker" /></p>
+
