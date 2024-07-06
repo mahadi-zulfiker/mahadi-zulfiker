@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/f1RxB7S/Screenshot-2024-07-01-201653.png" />
+<img src="https://i.ibb.co/Jm8bb1v/Black-Modern-Personal-Linked-In-Banner.png" />
 
 <br />
 
