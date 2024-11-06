@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **mahade.adib45@gmail.com**
 
-- 📄 My Resume: [https://drive.google.com/file/d/12j44DBLMqo6JBIc-kp6LM0ZmX8f6soe7/view?usp=sharing](https://drive.google.com/file/d/12j44DBLMqo6JBIc-kp6LM0ZmX8f6soe7/view?usp=sharing)
+- 📄 My Resume: [https://drive.google.com/file/d/1oCeBl6sBGlf9KZCKqM7Of7de0_vHdsgj/view?usp=sharing](https://drive.google.com/file/d/1oCeBl6sBGlf9KZCKqM7Of7de0_vHdsgj/view?usp=sharing)
 
 - ⚡ Fun fact **I did not know how to add a readme at first**
 
