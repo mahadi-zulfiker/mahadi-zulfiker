@@ -21,11 +21,10 @@
 ## :mailbox: Reach me out:
 
 <p align="left">
-<a href="https://app.daily.dev/mahadi4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/mahadi4545" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahadi-zulfiker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahadi-zulfiker" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22822200/mahade-adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22822200/mahade-adib" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mahade.adib.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahade.adib.5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mahadi_adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mahadi_adib" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Mahadi_Adib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Mahadi_Adib/" height="30" width="40" /></a>
 </p>
 
 ## :computer: Technologies & tools that I use:
