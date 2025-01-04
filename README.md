@@ -1,11 +1,12 @@
 <img src="https://i.ibb.co/Jm8bb1v/Black-Modern-Personal-Linked-In-Banner.png" />
-
 <br />
+# 👋 Hello
 
-<h1 align="center">Hi 👋, I'm Mahadi Zulfiker</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+Welcome to my portfolio! I'm **Mahadi Zulfiker**, a passionate web developer specializing in **React.js**. This repository showcases my projects, skills, and professional experiences. I am a dedicated web developer who strongly focuses on creating responsive and user-friendly web applications. I bring a solid foundation in programming and a keen eye for UI/UX design. I am enthusiastic about learning new technologies and solving complex challenges in web development. I am currently pursuing Bachelor's in Computer Science & Engineering.
 
- ## :eyes: Current overview:
+---
+
+ ## :eyes:overview:
 
 - 🌱 I’m currently Working with MERN Stack Development **& learning Other Programming languages**
 
@@ -15,30 +16,8 @@
 
 - 📄 My Resume: [https://drive.google.com/file/d/1oCeBl6sBGlf9KZCKqM7Of7de0_vHdsgj/view?usp=sharing](https://drive.google.com/file/d/1oCeBl6sBGlf9KZCKqM7Of7de0_vHdsgj/view?usp=sharing)
 
-- ⚡ Fun fact **I did not know how to add a readme at first**
+## 🛠️ Skills
 
-
-## :mailbox: Reach me out:
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahadi-zulfiker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahadi-zulfiker" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22822200/mahade-adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22822200/mahade-adib" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mahade.adib.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahade.adib.5" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Mahadi_Adib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Mahadi_Adib/" height="30" width="40" /></a>
-</p>
-
-## :computer: Technologies & tools that I use:
-
-![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,express,nodejs,mongodb,vercel,firebase,git,github,vscode)
-
-## :chart_with_upwards_trend: Current Stats:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadi-zulfiker&show_icons=true&locale=en&layout=compact" alt="mahadi-zulfiker" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadi-zulfiker&" alt="mahadi-zulfiker" /></p>
-
-
-## 💬 Ask me about (💪)
 
 <table border="0">
 <tr>
@@ -90,4 +69,33 @@
   </td>
 </tr>
 </table>
+
+
+## 🎓 Education
+
+- **Degree**: Bachelor of Science in Computer Science
+- **University**: Uttara University - Bangladesh (UU)
+- **Graduation Year**: 2027
+
+---
+
+## 📊 GitHub Stats
+
+| Top Languages | GitHub Stats |LeetCode Stats
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi-zulfiker&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=mahadi-zulfiker&theme=radical) |[![LeetCode Stats](https://leetcard.jacoblin.cool/Mahadi_Adib)](https://leetcode.com/u/Mahadi_Adib/)
+---
+
+
+
+## 📫 Contact
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahadi-zulfiker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahadi-zulfiker" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22822200/mahade-adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22822200/mahade-adib" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mahade.adib.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahade.adib.5" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Mahadi_Adib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Mahadi_Adib/" height="30" width="40" /></a>
+</p>
+
+---
 
