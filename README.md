@@ -79,12 +79,21 @@ Welcome to my portfolio! I'm **Mahadi Zulfiker**, a passionate web developer spe
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & LeetCode Stats
 
-| Top Languages | GitHub Stats |LeetCode Stats
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi-zulfiker&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=mahadi-zulfiker&theme=radical) |[![LeetCode Stats](https://leetcard.jacoblin.cool/Mahadi_Adib)](https://leetcode.com/u/Mahadi_Adib/)
----
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi-zulfiker&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadi-zulfiker&theme=radical" alt="GitHub Streak Stats" width="48%" />
+
+  <br/>
+
+  <a href="https://leetcode.com/u/Mahadi_Adib/">
+    <img src="https://leetcard.jacoblin.cool/Mahadi_Adib" alt="LeetCode Stats" width="55%"/>
+  </a>
+
+</div>
 
 
 
