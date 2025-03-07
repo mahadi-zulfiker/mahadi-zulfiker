@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/Jm8bb1v/Black-Modern-Personal-Linked-In-Banner.png" />
+<img src="https://i.ibb.co.com/DDQp1NxM/Black-and-White-Simple-Art-Director-Linked-In-Banner-1.png" />
 <br />
 # 👋 Hello
 
