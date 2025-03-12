@@ -1,110 +1,70 @@
-<img src="https://i.ibb.co.com/DDQp1NxM/Black-and-White-Simple-Art-Director-Linked-In-Banner-1.png" />
-<br />
-# 👋 Hello
+<p align="center">
+  <img src="https://i.ibb.co/DDQp1NxM/Black-and-White-Simple-Art-Director-Linked-In-Banner-1.png" alt="Mahadi Zulfiker - Web Developer" width="100%" />
+</p>
 
-Welcome to my portfolio! I'm **Mahadi Zulfiker**, a passionate web developer specializing in **React.js**. This repository showcases my projects, skills, and professional experiences. I am a dedicated web developer who strongly focuses on creating responsive and user-friendly web applications. I bring a solid foundation in programming and a keen eye for UI/UX design. I am enthusiastic about learning new technologies and solving complex challenges in web development. I am currently pursuing Bachelor's in Computer Science & Engineering.
+# 👋 Hi, I’m Mahadi Zulfiker  
+### *Crafting Responsive Web Experiences with Passion and Precision*
+
+Welcome to my portfolio! I’m a passionate **web developer** specializing in **React.js**, **Next.js**, and the **MERN stack**. This space showcases my projects, skills, and journey as a developer. I love building user-friendly, responsive applications with a strong focus on performance and design. Currently pursuing a Bachelor's in Computer Science & Engineering, I’m always exploring new tools and technologies to create impactful solutions.
 
 ---
 
- ## :eyes:overview:
+## 🌟 About Me
 
-- 🌱 I’m currently Working with MERN Stack Development **& learning Other Programming languages**
+- 🌱 **Currently Working On**: MERN Stack & Next.js Development  
+- 🧠 **Learning**: Advanced frameworks and optimization techniques  
+- 👨‍💻 **Portfolio**: [portfolio-mahadi-zulfiker.web.app](https://portfolio-mahadi-zulfiker.web.app)  
+- 📫 **Email**: [mahade.adib45@gmail.com](mailto:mahade.adib45@gmail.com)  
+- 📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1oCeBl6sBGlf9KZCKqM7Of7de0_vHdsgj/view?usp=sharing)  
 
-- 👨‍💻 My Portfolio is available at: [https://portfolio-mahadi-zulfiker.web.app](https://portfolio-mahadi-zulfiker.web.app)
+---
 
-- 📫 How to reach me: **mahade.adib45@gmail.com**
+## 🛠️ Skills Snapshot
 
-- 📄 My Resume: [https://drive.google.com/file/d/1oCeBl6sBGlf9KZCKqM7Of7de0_vHdsgj/view?usp=sharing](https://drive.google.com/file/d/1oCeBl6sBGlf9KZCKqM7Of7de0_vHdsgj/view?usp=sharing)
+| **Category**   | **Technologies**                                                                                           |
+|-----------------|------------------------------------------------------------------------------------------------------------|
+| **Frontend**   | ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Backend**    | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
+| **Database**   | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
+| **Hosting**    | ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?logo=github&logoColor=white&style=for-the-badge) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
+| **Tools**      | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+| **Libraries**  | ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) |
 
-## 🛠️ Skills
-
-
-<table border="0">
-<tr>
-<td>Frontend</td> <td><img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-</tr>
-<tr>
-<td>Backend</td>
-<td><img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"></td>
-</tr>
-<tr>
-<td>Database</td>
-<td>
- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
- <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
-</td>
-</tr>
-<tr>
-<td>Hosting</td>
-<td><img src="https://img.shields.io/badge/github%20pages-121013?logo=github&logoColor=white&style=for-the-badge" alt="Github Pages">
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"></td>
-</tr>
-<tr>
-<td>Tools</td>
-<td>
- <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
- <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"> 
- <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"> 
- <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
- <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> 
- <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"> 
-</td>
-</tr>
-<tr>
-  <td>Libraries</td>
-  <td>
-    <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI">
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
-    <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query">
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
-    <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form">
-    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite">    
-  </td>
-</tr>
-</table>
-
+---
 
 ## 🎓 Education
 
-- **Degree**: Bachelor of Science in Computer Science
-- **University**: Uttara University - Bangladesh (UU)
-- **Graduation Year**: 2027
+- **Degree**: Bachelor of Science in Computer Science & Engineering  
+- **Institution**: Uttara University, Bangladesh (UU)  
+- **Expected Graduation**: 2027  
 
 ---
 
-## 📊 GitHub & LeetCode Stats
+## 📊 My Coding Journey
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi-zulfiker&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadi-zulfiker&theme=radical" alt="GitHub Streak Stats" width="48%" />
-
-  <br/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadi-zulfiker&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=dracula&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=mahadi-zulfiker&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" alt="Streak Graph" width="45%" />
+</p>
+<p align="center">
   <a href="https://leetcode.com/u/Mahadi_Adib/">
-    <img src="https://leetcard.jacoblin.cool/Mahadi_Adib" alt="LeetCode Stats" width="55%"/>
+    <img src="https://leetcard.jacoblin.cool/Mahadi_Adib?theme=dark&width=600" alt="LeetCode Stats" width="60%"/>
   </a>
-
-</div>
-
-
-
-## 📫 Contact
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahadi-zulfiker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahadi-zulfiker" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22822200/mahade-adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22822200/mahade-adib" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mahade.adib.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahade.adib.5" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Mahadi_Adib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Mahadi_Adib/" height="30" width="40" /></a>
 </p>
 
 ---
 
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahadi-zulfiker" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>  
+  <a href="https://stackoverflow.com/users/22822200/mahade-adib" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="50" /></a>  
+  <a href="https://www.facebook.com/mahade.adib.5" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" /></a>  
+  <a href="https://leetcode.com/u/Mahadi_Adib/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting! Let’s create something extraordinary together.</i>
+</p>
