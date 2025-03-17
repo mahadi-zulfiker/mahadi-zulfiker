@@ -11,8 +11,8 @@ Welcome to my portfolio! I’m a passionate **web developer** specializing in **
 
 ## 🌟 About Me
 
-- 🌱 **Currently Working On**: MERN Stack & Next.js Development  
-- 🧠 **Learning**: Advanced frameworks and optimization techniques  
+- 🌱 **Currently Working On**: MERN Stack & Next.js Development.
+- 🧠 **Learning**: Advanced frameworks and optimization techniques.
 - 👨‍💻 **Portfolio**: [portfolio-mahadi-zulfiker.web.app](https://portfolio-mahadi-zulfiker.web.app)  
 - 📫 **Email**: [mahade.adib45@gmail.com](mailto:mahade.adib45@gmail.com)  
 - 📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1oCeBl6sBGlf9KZCKqM7Of7de0_vHdsgj/view?usp=sharing)  
