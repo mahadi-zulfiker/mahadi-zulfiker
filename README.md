@@ -15,7 +15,7 @@ Welcome to my portfolio! I’m a passionate **web developer** specializing in **
 - 🧠 **Learning**: Advanced frameworks and optimization techniques.
 - 👨‍💻 **Portfolio**: [portfolio-mahadi-zulfiker.web.app](https://portfolio-mahadi-zulfiker.web.app)  
 - 📫 **Email**: [mahade.adib45@gmail.com](mailto:mahade.adib45@gmail.com)  
-- 📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1oCeBl6sBGlf9KZCKqM7Of7de0_vHdsgj/view?usp=sharing)  
+- 📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1EjUFb2NtH-JNCOrpVpb7BmKNplvzADDW/view?usp=sharing)  
 
 ---
 
