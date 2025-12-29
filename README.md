@@ -5,7 +5,12 @@
 # 👋 Hi, I’m Mahadi Zulfiker  
 ### *Crafting Responsive Web Experiences with Passion and Precision*
 
-Welcome to my portfolio! I’m a passionate **web developer** specializing in **React.js**, **Next.js**, and the **MERN stack**. This space showcases my projects, skills, and journey as a developer. I love building user-friendly, responsive applications with a strong focus on performance and design. Currently pursuing a Bachelor's in Computer Science & Engineering, I’m always exploring new tools and technologies to create impactful solutions.
+Welcome to my portfolio.
+I’m Mahadi Zulfiker, a Full-Stack Software Engineer specializing in React.js, Next.js, and the MERN/PERN stack.
+
+I build scalable, high-performance web applications with a strong focus on user experience, clean architecture, and performance. From crafting intuitive interfaces to designing robust backends, I enjoy turning complex ideas into reliable digital products.
+
+Currently pursuing a Bachelor’s in Computer Science & Engineering, I’m constantly exploring new tools and technologies to deliver solutions that users love and businesses trust.
 
 ---
 
