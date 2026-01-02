@@ -14,15 +14,20 @@ Currently pursuing a Bachelor’s in Computer Science & Engineering, I’m const
 
 ---
 
-## 🌟 About Me
+### 🚀 Current Focus
+- Docker & Linux fundamentals  
+- AWS cloud services  
+- GraphQL for efficient APIs  
+- Jest, Unit Testing, CI/CD & DevOps basics  
+- Three.js for interactive web experiences  
 
-- 🌱 **Currently Working On**: MERN Stack & Next.js Development.
-- 🧠 **Learning**: Advanced frameworks and optimization techniques.
-- 👨‍💻 **Portfolio**: [portfolio-mahadi-zulfiker.web.app](https://portfolio-mahadi-zulfiker.web.app)  
+### 🔗 Connect With Me
+- 🌐 **Portfolio**: [portfolio-mahadi-zulfiker.web.app](https://portfolio-mahadi-zulfiker.web.app) 
 - 📫 **Email**: [mahade.adib45@gmail.com](mailto:mahade.adib45@gmail.com)  
-- 📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1EjUFb2NtH-JNCOrpVpb7BmKNplvzADDW/view?usp=sharing)  
+- 📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1EjUFb2NtH-JNCOrpVpb7BmKNplvzADDW/view?usp=sharing) 
 
 ---
+
 
 ## 🛠️ Skills Snapshot
 
