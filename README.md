@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1263" height="798" alt="image" src="https://github.com/user-attachments/assets/5377331e-a863-4cd5-859f-6b5176f0b36f" /><p align="center">
   <img src="https://i.ibb.co/DDQp1NxM/Black-and-White-Simple-Art-Director-Linked-In-Banner-1.png" alt="Mahadi Zulfiker - Web Developer" width="100%" />
 </p>
 
@@ -24,7 +24,7 @@ Currently pursuing a Bachelor’s in Computer Science & Engineering, I’m const
 ### 🔗 Connect With Me
 - 🌐 **Portfolio**: [portfolio-mahadi-zulfiker.web.app](https://portfolio-mahadi-zulfiker.web.app) 
 - 📫 **Email**: [mahade.adib45@gmail.com](mailto:mahade.adib45@gmail.com)  
-- 📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1EjUFb2NtH-JNCOrpVpb7BmKNplvzADDW/view?usp=sharing) 
+- 📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1Z8VFa6TUluURxVxgaUNsoKVuWNK-78Pf/view?usp=sharing) 
 
 ---
 
