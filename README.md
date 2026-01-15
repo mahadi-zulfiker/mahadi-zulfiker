@@ -1,4 +1,4 @@
-<img width="1263" height="798" alt="image" src="https://github.com/user-attachments/assets/5377331e-a863-4cd5-859f-6b5176f0b36f" /><p align="center">
+<p align="center">
   <img src="https://i.ibb.co/DDQp1NxM/Black-and-White-Simple-Art-Director-Linked-In-Banner-1.png" alt="Mahadi Zulfiker - Web Developer" width="100%" />
 </p>
 
