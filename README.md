@@ -22,9 +22,9 @@ Currently pursuing a Bachelor’s in Computer Science & Engineering, I’m const
 - Three.js for interactive web experiences  
 
 ### 🔗 Connect With Me
-- 🌐 **Portfolio**: [portfolio-mahadi-zulfiker.web.app](https://portfolio-mahadi-zulfiker.web.app) 
+- 🌐 **Portfolio**: [portfolio-mahadi-zulfiker.web.app](https://mahadizulfiker.dev/) 
 - 📫 **Email**: [mahade.adib45@gmail.com](mailto:mahade.adib45@gmail.com)  
-- 📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1Z8VFa6TUluURxVxgaUNsoKVuWNK-78Pf/view?usp=sharing) 
+- 📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1Z9rlJzntrahfwnAQBLls4azzJszQSPbc/view?usp=sharing) 
 
 ---
 
