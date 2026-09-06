@@ -1,80 +1,115 @@
 <p align="center">
-  <img src="https://i.ibb.co/DDQp1NxM/Black-and-White-Simple-Art-Director-Linked-In-Banner-1.png" alt="Mahadi Zulfiker - Web Developer" width="100%" />
+  <img src="https://i.ibb.co/DDQp1NxM/Black-and-White-Simple-Art-Director-Linked-In-Banner-1.png" alt="Mahadi Zulfiker — Full-Stack Software Engineer" width="100%" />
 </p>
 
-# 👋 Hi, I’m Mahadi Zulfiker  
-### *Crafting Responsive Web Experiences with Passion and Precision*
-
-Welcome to my portfolio.
-I’m Mahadi Zulfiker, a Full-Stack Software Engineer specializing in React.js, Next.js, and the MERN/PERN stack.
-
-I build scalable, high-performance web applications with a strong focus on user experience, clean architecture, and performance. From crafting intuitive interfaces to designing robust backends, I enjoy turning complex ideas into reliable digital products.
-
-Currently pursuing a Bachelor’s in Computer Science & Engineering, I’m constantly exploring new tools and technologies to deliver solutions that users love and businesses trust.
-
----
-
-### 🚀 Current Focus
-- Docker & Linux fundamentals  
-- AWS cloud services  
-- GraphQL for efficient APIs  
-- Jest, Unit Testing, CI/CD & DevOps basics  
-- Three.js for interactive web experiences  
-
-### 🔗 Connect With Me
-- 🌐 **Portfolio**: [mahadizulfiker.dev](https://mahadizulfiker.dev/) 
-- 📫 **Email**: [mahade.adib45@gmail.com](mailto:mahade.adib45@gmail.com)  
-- 📄 **Resume**: [View on Google Drive](https://drive.google.com/file/d/1Z9rlJzntrahfwnAQBLls4azzJszQSPbc/view?usp=sharing) 
-
----
-
-
-## 🛠️ Skills Snapshot
-
-| **Category**   | **Technologies**                                                                                           |
-|-----------------|------------------------------------------------------------------------------------------------------------|
-| **Frontend**   | ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Backend**    | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
-| **Database**   | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
-| **Hosting**    | ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?logo=github&logoColor=white&style=for-the-badge) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
-| **Tools**      | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
-| **Libraries**  | ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) |
-
----
-
-## 🎓 Education
-
-- **Degree**: Bachelor of Science in Computer Science & Engineering  
-- **Institution**: Uttara University, Bangladesh (UU)  
-- **Expected Graduation**: 2027  
-
----
-
-## 📊 My Coding Journey
+<h1 align="center">Mahadi Zulfiker</h1>
+<p align="center"><b>Full-Stack Software Engineer — voice-AI and commerce systems, end to end</b></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadi-zulfiker&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=dracula&hide_border=true" alt="Top Languages" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=mahadi-zulfiker&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" alt="Streak Graph" width="50%" />
-</p>
-<p align="center">
-  <a href="https://leetcode.com/u/Mahadi_Adib/">
-    <img src="https://leetcard.jacoblin.cool/Mahadi_Adib?theme=dark&width=600" alt="LeetCode Stats" width="60%"/>
-  </a>
+  <a href="https://mahadizulfiker.dev"><img src="https://img.shields.io/badge/Portfolio-mahadizulfiker.dev-22d3c5?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://mahadizulfiker.dev/resume"><img src="https://img.shields.io/badge/Résumé-View-0b0e11?style=for-the-badge" alt="Résumé" /></a>
+  <a href="https://www.linkedin.com/in/mahadi-zulfiker"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mahade.adib45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 📬 Let’s Connect
+I build the parts that are hard to fake: realtime voice agents that hold a phone
+conversation in Bangla, wallet ledgers that have to reconcile to the last unit,
+and multi-vendor marketplaces that pay vendors correctly.
+
+Three years shipping production systems across architecture, backend, interface
+and deployment — currently **Full-Stack Software Engineer at SeloraX** (hybrid,
+Dhaka) and **Talktivity** (remote), alongside a BSc in CSE at Uttara University.
+
+> I like problems with a correctness cost — money that has to add up, a call that
+> has to answer in Bangla under 300 ms, a score report that can't silently fail.
+
+---
+
+## Selected work
+
+| Project | What it is | My role |
+| :--- | :--- | :--- |
+| **[SeloraX Voice AI](https://mahadizulfiker.dev/work/selorax-voice-ai)** | Bangla AI phone agent over a SIP gateway, now a multi-tenant platform merchants run themselves | Primary builder of the voice engine |
+| **[Smart Sheba](https://mahadizulfiker.dev/work/smart-sheba)** | Daraz-style marketplace with a wallet ledger and tree commission engine | Sole author |
+| **[Talktivity](https://mahadizulfiker.dev/work/talktivity)** | Realtime voice-AI English tutor that scores speech against CEFR | React Native app + core web frontend |
+| **[n8n-nodes-selorax](https://www.npmjs.com/package/n8n-nodes-selorax)** | Published npm package — n8n community nodes | Author |
+| **[SEO Studio](https://mahadizulfiker.dev/work/seo-studio)** | AI-search audit tool that grades a store for Google and ChatGPT | Author |
+
+Full case studies, with the tradeoffs rather than just the stack →
+**[mahadizulfiker.dev/work](https://mahadizulfiker.dev/work)**
+
+---
+
+## Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+**AI & realtime**
+
+![LiveKit](https://img.shields.io/badge/LiveKit_/_WebRTC-1E1E1E?style=flat-square&logo=webrtc&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_Live-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_STT／LLM-F55036?style=flat-square)
+![SIP](https://img.shields.io/badge/SIP_Telephony-0B0E11?style=flat-square)
+
+**Platform & payments**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![npm](https://img.shields.io/badge/npm_publishing-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+---
+
+## Education
+
+**BSc, Computer Science & Engineering** — Uttara University, Dhaka · 2024–2027
+
+---
+
+## Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahadi-zulfiker" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>  
-  <a href="https://stackoverflow.com/users/22822200/mahade-adib" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="50" /></a>  
-  <a href="https://www.facebook.com/mahade.adib.5" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" /></a>  
-  <a href="https://leetcode.com/u/Mahadi_Adib/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadi-zulfiker&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=dracula&hide_border=true" alt="Top languages" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=mahadi-zulfiker&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" alt="Contribution streak" width="50%" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Thanks for visiting! Let’s create something extraordinary together.</i>
+  <a href="https://www.linkedin.com/in/mahadi-zulfiker"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="46" /></a>
+  <a href="https://stackoverflow.com/users/22822200/mahade-adib"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="36" width="46" /></a>
+  <a href="https://leetcode.com/u/Mahadi_Adib/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="36" width="46" /></a>
 </p>
