@@ -102,7 +102,6 @@ Full case studies, with the tradeoffs rather than just the stack →
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadi-zulfiker&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=dracula&hide_border=true" alt="Top languages" width="45%" />
   <img src="https://streak-stats.demolab.com?user=mahadi-zulfiker&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" alt="Contribution streak" width="50%" />
 </p>
 
