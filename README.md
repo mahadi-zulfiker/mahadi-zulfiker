@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/DDQp1NxM/Black-and-White-Simple-Art-Director-Linked-In-Banner-1.png" alt="Mahadi Zulfiker — Full-Stack Software Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/mahadi-zulfiker/mahadi-zulfiker/main/assets/banner.png" alt="Mahadi Zulfiker — Full-Stack Software Engineer" width="100%" />
 </p>
 
 <h1 align="center">Mahadi Zulfiker</h1>
